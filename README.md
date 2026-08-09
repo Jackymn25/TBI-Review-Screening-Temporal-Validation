@@ -2,7 +2,7 @@
 
 Public release artifacts from a retrospective temporal validation of machine-learning-assisted title-and-abstract screening within one traumatic brain injury systematic review update.
 
-## setting & Unofficial Paper
+## Setting & Unofficial Paper
 
 This is a research project carried out in Kite Research Institute, UHN, Canada.
 
