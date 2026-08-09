@@ -2,6 +2,14 @@
 
 Public release artifacts from a retrospective temporal validation of machine-learning-assisted title-and-abstract screening within one traumatic brain injury systematic review update.
 
+## setting & Unofficial Paper
+
+This is a research project carried out in Kite Research Institute, UHN, Canada.
+
+Authors: **Haozhe Huo; Urooba Shaikh; Cynthia Chui; Tatyana Mollayeva**
+
+[Unofficial paper link](https://github.com/Jackymn25/TBI-Review-Screening-Temporal-Validation/blob/main/paper/TBI_screening_temporal_validation_content_only.md)
+
 ## Research question
 
 The study examined whether screening policies developed on earlier records retained high recall when applied, without model or threshold changes, to later records from the same review update. It also quantified simulated human-review workload, temporal drift, and overlap among false negatives.
