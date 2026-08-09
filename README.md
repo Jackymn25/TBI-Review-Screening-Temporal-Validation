@@ -51,7 +51,7 @@ Seven of eight policies met the nominal recall target by point estimate. Six uni
 - [`models/`](models/): eight fitted primary policies, coefficient tables for encoder classifiers, and model documentation
 - [`results/tables/`](results/tables/): aggregate policy metrics, bootstrap intervals, overlap sensitivity, truncation summary, and masked false-negative overlap
 - [`results/figures/`](results/figures/): publication-ready aggregate figures
-- [`paper/`](paper/): content-only scientific abstract in editable Markdown and PDF formats
+- [Unofficial paper link](https://github.com/Jackymn25/TBI-Review-Screening-Temporal-Validation/blob/main/paper/TBI_screening_temporal_validation_content_only.md): content-only scientific abstract in editable Markdown and PDF formats
 - [`checksums/`](checksums/): SHA-256 checksums for released artifacts
 
 ## Deliberate exclusions
