@@ -1,0 +1,13 @@
+{
+  "policy_id": "gte_8192__primary__c_10__weight_none",
+  "role": "gte_8192",
+  "dataset": "primary",
+  "policy_role": "main_long_context_policy",
+  "candidate_id": "c_10__weight_none",
+  "C": 10.0,
+  "class_weight": "none",
+  "threshold": 0.006067521371862778,
+  "model_sha256": "b93d88ca7a99aa13c6965d831d8c1021e926a7083311f9d2d00b6fb48ab57201",
+  "coefficient_sha256": "26f6e0b256631ed6fa82c42fda6f93d29db273a1c35715656b97b13dbc69e07c",
+  "reload_score_and_decision_reproduction": "passed"
+}

@@ -1,0 +1,13 @@
+# Prevent accidental publication of protected or internal project material.
+data/
+configs/
+internal/
+logs/
+tmp/
+*.env
+*.log
+*.npy
+*.parquet
+__pycache__/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+{
+  "policy_id": "gte_512__primary__c_10__weight_none",
+  "role": "gte_512",
+  "dataset": "primary",
+  "policy_role": "matched_truncation_sensitivity",
+  "candidate_id": "c_10__weight_none",
+  "C": 10.0,
+  "class_weight": "none",
+  "threshold": 0.005400644067594143,
+  "model_sha256": "84bac07f95125fd86f747c2220cb3e9feb99dc496a5a1d471cdbbe27bef86b9d",
+  "coefficient_sha256": "b5ed568b7fbe16f0d9a485571c94f77fb18ba0315438d24492246806a1db678a",
+  "reload_score_and_decision_reproduction": "passed"
+}

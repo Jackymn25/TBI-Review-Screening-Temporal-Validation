@@ -1,0 +1,13 @@
+{
+  "policy_id": "medcpt_512__primary__c_10__weight_none",
+  "role": "medcpt_512",
+  "dataset": "primary",
+  "policy_role": "biomedical_domain_comparator",
+  "candidate_id": "c_10__weight_none",
+  "C": 10.0,
+  "class_weight": "none",
+  "threshold": 0.007062083699031333,
+  "model_sha256": "59f8433492c6b17561fa0cb05a491e4bae84aa4b015d6258d5f2884561ed4bc2",
+  "coefficient_sha256": "501f30f57c93a1cca43ba7e9035cdd4bfec00d195e0c65660afe32d9c43ddb34",
+  "reload_score_and_decision_reproduction": "passed"
+}

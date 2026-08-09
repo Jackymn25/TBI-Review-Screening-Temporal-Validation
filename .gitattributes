@@ -1,0 +1,9 @@
+.gitattributes text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.joblib binary
+*.pdf binary
+*.png binary
+.gitignore text eol=lf
+checksums/SHA256SUMS text eol=lf

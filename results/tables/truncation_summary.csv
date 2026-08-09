@@ -1,0 +1,4 @@
+role,records,maximum_raw_token_length,truncated_records,truncated_yes,truncated_no
+gte_8192,7203,7648,0,0,0
+gte_512,7203,7648,1557,14,1543
+medcpt_512,7203,7908,1216,9,1207
